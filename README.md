@@ -2,7 +2,7 @@
 
 ## Repository Description
 
-Thsi repository contains a technical demonstration of quantum randomness using IBM Qiskit.
+This repository contains a technical demonstration of quantum randomness using IBM Qiskit.
 It simulates Buffon's Needle Problem to estimate the value of $\pi$ and illustrates the conversion of quantum-generated bit strings into uniformly distributed floating-point numbers.
 The demonstration includes both classical and qubit simulation.
 The demonstration file is available [here](./buffon.ipynb).
@@ -10,10 +10,10 @@ The demonstration file is available [here](./buffon.ipynb).
 
 ## Abstract
 
-Quantum computes promise numerous advantages, including quantum parallelism, quantum simulation, and quantum cryptograhpy.
+Quantum computers promise numerous advantages, including quantum parallelism, quantum simulation, and quantum cryptography.
 Since the theory of local hidden variables has been disproven, it is established that quantum systems are capable of generating truly random outputs.
 By preparing qubits in superposition states, one can obtain uniformly distributed random outputs.
-This notebook presents a demonstration of quantum randomness through Buffon's needle problem, a probabilistic mehtod for estimating the value of $\pi$.
+This notebook presents a demonstration of quantum randomness through Buffon's needle problem, a probabilistic method for estimating the value of $\pi$.
 In this problem, needles of fixed length are randomly dropped onto a plane with evenly spaced parallel lines, and the ratio between the number of intersections and the total number of throws converges to $\pi$.
 The random positions and orientations of the needles are generated using a quantum computer, effectively simulating the experiment.
 The purpose of this work is not to accelerate the computation of $\pi$, but rather to illustrate the quality of randomness obtainable from quantum processes and to highlight their potential in probabilistic simulations.
