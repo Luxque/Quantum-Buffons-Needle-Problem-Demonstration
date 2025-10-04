@@ -7,7 +7,6 @@ It simulates Buffon's Needle Problem to estimate the value of $\pi$ and illustra
 The demonstration includes both classical and qubit simulation of Buffon's Needle Problem.
 The Jupyter notebook file is available [here](./buffon.ipynb).
 
-
 ## Abstract
 
 Quantum computers promise numerous advantages, including quantum parallelism, quantum simulation, and quantum cryptography.
@@ -19,7 +18,6 @@ The random positions and orientations of the needles are generated using a quant
 The purpose of this work is not to accelerate the computation of $\pi$, but rather to illustrate the quality of randomness obtainable from quantum processes and to highlight their potential in probabilistic simulations.
 This demonstration connects a mathematical conclusion to modern quantum technology, offering both pedagogical value and an example of the interplay between probability and quantum computation.
 
-
 ## References
 
 * Bernhardt, C. *Quantum Computing for Everyone*. MIT Press, 2019.
@@ -27,12 +25,10 @@ This demonstration connects a mathematical conclusion to modern quantum technolo
 * “Introduction of Floating Point Representation,” *GeeksforGeeks*. Available at: https://www.geeksforgeeks.org/digital-logic/introduction-of-floating-point-representation/#
 * IEEE Standard for Binary Floating-Point Arithmetic (IEEE 754-1985). Available at: https://www.ime.unicamp.br/~biloti/download/ieee_754-1985.pdf
 
-
 ## Contribution
 
 You are more than welcome to contribute by helping fix any mistakes.
 Please feel free to open an issue or submit a pull request to this repository.
-
 
 ## License
 
