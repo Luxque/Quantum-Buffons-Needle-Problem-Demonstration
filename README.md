@@ -1,4 +1,4 @@
-# Quantum Buffons Needle Problem Demonstration
+# Quantum Buffon's Needle Problem Demonstration
 
 ## Repository Description
 
