@@ -5,7 +5,7 @@
 This repository contains a technical demonstration of quantum randomness using IBM Qiskit.
 It simulates Buffon's Needle Problem to estimate the value of $\pi$ and illustrates the conversion of quantum-generated bit strings into uniformly distributed floating-point numbers.
 The demonstration includes both classical and qubit simulation of Buffon's Needle Problem.
-The Jupyter notebook file is available [here](./buffon.ipynb).
+The Jupyter notebook file is available [here](./notebooks/buffon.ipynb).
 
 ## Abstract
 
